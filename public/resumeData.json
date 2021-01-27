@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Asif Mudnal",
+    "f_name": "Asif",
+    "occupation": "Software Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "My name is Asif, I'm a Software Developer. Currently I'm working at Resemble systems .",
+    "contactmessage": "You can contact me for development of FrontEnd projects",
+    "email": "asifmudnal77@gmail.com",
+    "phone": "+918618954607",
+    "address": {
+      "street": "Kormanagala",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560013"
+    },
+    "website": "https://github.com/asifmudnal7/",
+    "resumedownload": "https://drive.google.com/file/d/1Ep_HwiQPRljgETeiHBFQcM-NP1rDpoR3/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/asif.mudnal/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/asif-m-968b63151/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/asifmd_7/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/asifmudnal7/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "The techs that i like to code are: ",
+    "education": [
+      {
+        "school": "Acharya Institute of Technology",
+        "degree": "Master of Computer Application",
+        "graduated": "2018",
+        "description": "I have done two main projects, a minor project on virtual graphics."
+      },
+      {
+        "school": "Acharya Institute of Technology",
+        "degree": "Bachelor of Computer Science",
+        "graduated": "2016",
+        "description": "I have done two main projects in final last semesters."
+      }
+    ],
+    "work": [
+      {
+        "company": "Resemble Systems",
+        "title": "Software Developer",
+        "years": "Feb 2019 to Present",
+        "description": "Working as a full-stack developer."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Robotic Process automation",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Sharepoint",
+        "level": "60%"
+      },
+      {
+        "name": "Nintex",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "SQL",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Resemble systems.",
+        "category": "Weather Application in basic front end",
+        "image": "weather.JPG",
+        "url": "https://asifweatherapp.vercel.app/"
+      },
+      {
+        "title": "BMI Calculator.",
+        "category": "Body Mass Index Calculator App",
+        "image": "bmi.JPG",
+        "url": ""
+      },
+      {
+        "title": "Weather App Using ReactJS .",
+        "category": "Personalised weather app",
+        "image": "weather.JPG",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "user": "Asif",
+        "text": "Attitude is everything..."
+      }
+    ]
+  }
+}
